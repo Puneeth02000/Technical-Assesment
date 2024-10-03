@@ -1,0 +1,19 @@
+
+body {
+  font-family: Arial, sans-serif;
+}
+header {
+  background: #972828;
+  color: #fff;
+  padding: 10px;
+}
+
+.main{
+  background-color: #b5b1b1;
+}
+
+.stream{
+  background-color: wheat;
+  align-items: center;
+  
+}
